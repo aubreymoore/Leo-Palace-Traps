@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.738916,
+          13.413849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.739389,
+          13.413491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73953,
+          13.412836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.739516,
+          13.412941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.739778,
+          13.412586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740272,
+          13.412275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740738,
+          13.411716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74154,
+          13.411295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.741552,
+          13.411272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73984,
+          13.409121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740236,
+          13.408254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740262,
+          13.407853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740396,
+          13.40772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.739851,
+          13.407385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740685,
+          13.406664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740725,
+          13.40657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740648,
+          13.405227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740823,
+          13.404999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.732991,
+          13.414532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.733256,
+          13.414114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73344,
+          13.413599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.733597,
+          13.41304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.733913,
+          13.412662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.734439,
+          13.412286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.734562,
+          13.411633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.735068,
+          13.411247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.735551,
+          13.410928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.736079,
+          13.410657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.736671,
+          13.410537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.737128,
+          13.411052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.742477,
+          13.415504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.742108,
+          13.416187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.742723,
+          13.416764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.742909,
+          13.417076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.743206,
+          13.417596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.743239,
+          13.417613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.744306,
+          13.417878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.744321,
+          13.4178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.745424,
+          13.417246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "trap_id": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.745795,
+          13.417007
+        ]
+      }
+    }
+  ]
+}
