@@ -6,6 +6,7 @@ This repository contains an analysis of coconut rhinoceros beetle trap data from
 
 analysis/
 
-[https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/traplocations.geojson](asasas)
+[Jupyter notebook documenting analysis and results]()
+[Trap map](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/traplocations.geojson)
 
 
