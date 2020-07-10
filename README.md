@@ -5,9 +5,8 @@ This repository contains an analysis of coconut rhinoceros beetle trap data from
 ## Key files
 
 * [Jupyter notebook documenting analysis and results](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/trapcatch.ipynb)
-* [Trap catch CSV]()
-* [Trap location CSV]()
-* [Trap catch chart for oryctalure, squalene, and x]()
+* [Data downloaded from EpiCollect 5](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/leo-palace-traps.csv)
+* [Trap catch CSV](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/trapcatch1.csv)
+* [Trap location CSV](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/georef.csv)
+* [Trap catch chart for oryctalure, squalene, and x](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/trapcatch1.pdf)
 * [Trap location map](https://github.com/aubreymoore/Leo-Palace-Traps/blob/master/analysis/traplocations.geojson)
-
-
